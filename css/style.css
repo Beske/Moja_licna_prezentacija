@@ -44,7 +44,8 @@ img {
 }
 
 #footer {
-	background:#f7f7f7;
+	background:#2b2b2e;
+	color: white;
 	border-top:1px solid #f0e9eb;
 	padding:10px 15px;
 	clear:both;
@@ -102,4 +103,9 @@ ul {
 	margin-bottom:20px;
 	font:normal 18px Georgia, serif;
 	color:#fa7393;
+}
+
+#content {
+	font-size: 20px;
+	margin: auto 10%;
 }
